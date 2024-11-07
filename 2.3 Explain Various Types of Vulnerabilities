@@ -1,0 +1,40 @@
+ Application
+- Memory injection
+- Buffer overflow
+- Race conditions
+o Time-of-check (TOC)
+o Time-of-use (TOU)
+- Malicious update
+
+• Operating system (OS)-based
+
+• Web-based
+- Structured Query Language
+injection (SQLi)
+- Cross-site scripting (XSS)
+
+• Hardware
+- Firmware
+- End-of-life
+- Legacy
+
+• Virtualization
+- Virtual machine (VM) escape
+- Resource reuse
+
+• Cloud-specific
+
+• Supply chain
+- Service provider
+- Hardware provider
+- Software provider
+
+• Cryptographic
+
+• Misconfiguration
+
+• Mobile device
+- Side loading
+- Jailbreaking
+
+• Zero-day
