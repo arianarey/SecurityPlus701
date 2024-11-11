@@ -26,10 +26,10 @@ o Time-of-use (TOU) Type of Race condition attack as stated above.
 
 • Cloud-specific is the practice of protecting cloud computing systems from security threats.
 
-• Supply chain 
-- Service provider
-- Hardware provider
-- Software provider
+• Supply chain involves the process of getting a product from the very beginning raw materials all the way through to the process of providing that product to a consumer.
+- Service provider would be responsible for all the security concerns for those systems.
+- Hardware provider are vendors that supplies the components needed to run a data center.
+- Software provider 
 
 • Cryptographic
 
