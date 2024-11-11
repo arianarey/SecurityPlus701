@@ -13,20 +13,20 @@ o Time-of-use (TOU) Type of Race condition attack as stated above.
 • Web-based
 - Structured Query Language is a way to have an application interact with a database. Meaning, this will take information that you're inputting into the applcation and use that information as queries into the database.
 - SQL injection (SQLi) allows an attacker to put their own requests into this query that's being made to the database.
-- Cross-site scripting (XSS)
+- Cross-site scripting (XSS) is one of the most common vulnerabilities for web-based applications. This takes advantage of the trust that the browser has for different websites.
 
-• Hardware
-- Firmware
-- End-of-life
-- Legacy
+• Hardware is any device that has an operating system inside of it.
+- Firmware is the operating system that makes everything work inside of a device.
+- End-of-life is a notice that the manufacturer is giving to everyone to let them know that in the future they will stop selling a particular product.
+- Legacy is a device that might be running an older operating system. 
 
-• Virtualization
-- Virtual machine (VM) escape
-- Resource reuse
+• Virtualization is a technology that creates virtual versions of physical machines, such as servers, storage devices, and networks.
+- Virtual machine (VM) escape allows the attacker to get access to one virtual machine and then find their way to connect to other virtual machines on that same hypervisor.
+- Resource reuse is the process of re-allocating or assigning system resources to a subject.
 
-• Cloud-specific
+• Cloud-specific is the practice of protecting cloud computing systems from security threats.
 
-• Supply chain
+• Supply chain 
 - Service provider
 - Hardware provider
 - Software provider
