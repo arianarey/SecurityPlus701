@@ -8,9 +8,9 @@ o Time-of-check (TOC) to Time-of-use (TOU) is a race condiction attack. This mea
 o Time-of-use (TOU) Type of Race condition attack as stated above.
 - Malicious update are software updates that are designed to harm users by compromising security or damaging a system.
 
-• Operating system (OS)-based is the program that, after being initially loaded into the computer by a boot program, manages all the other application programs in a computer.
+• Operating system (OS)-based is the program that after being initially loaded into the computer by a boot program, manages all the other application programs in a computer.
 
-• Web-based
+• Web-based refers to a range of threats and security solutions that protect against online risks.
 - Structured Query Language is a way to have an application interact with a database. Meaning, this will take information that you're inputting into the applcation and use that information as queries into the database.
 - SQL injection (SQLi) allows an attacker to put their own requests into this query that's being made to the database.
 - Cross-site scripting (XSS) is one of the most common vulnerabilities for web-based applications. This takes advantage of the trust that the browser has for different websites.
