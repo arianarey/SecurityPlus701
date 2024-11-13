@@ -49,8 +49,7 @@ The use of encryption techniques to protect data and communications from unautho
   Is when a system or application is not configured properly, or when essential configurations are missing.
 
 ## Mobile device
-  Are devices that often require additional policies and procedures along with other different technologies just to be able to provide security. They are small devices and they are also always moving. 
-  They contain sensitive info not only to the personal level, but to the organization as well. 
+  Are devices that often require additional policies and procedures along with other different technologies just to be able to provide security. They are small devices and they are also always moving. They contain sensitive info not only to the personal level, but to the organization as well. 
 
 - Side loading is the process of transferring media files or apps to a device in a way that is not authorized.
 - Jailbreaking is when someone effectivly circumvent all of the security that the owner of the device put in place using your mobile device manager. Jailbreaking gains access to Apple IOS. Root gains access to Android.
